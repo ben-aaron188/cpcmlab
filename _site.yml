@@ -1,0 +1,9 @@
+name: ""
+output_dir: "."
+output:
+  html_document:
+    theme: null
+    css: css/retro.css
+    toc: false
+    df_print: paged
+navbar: false
