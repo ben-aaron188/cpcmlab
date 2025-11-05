@@ -7,7 +7,7 @@ output: html_document
 <!--   <img src="images/lablogo.svg" alt="CPCM Lab logo"> -->
 <!-- </div> -->
 
-# CPCM Lab
+# Computational Psychology and Computational Methods Lab
 ### *Understanding Human Behaviour through Experiments, Data, and Computational Methods*
 
 ---
