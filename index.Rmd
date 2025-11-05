@@ -30,7 +30,7 @@ Our team brings together researchers with backgrounds in **Psychology, Computer 
 
 ## People
 
-- **Bennett Kleinberg** — Associate Professor
+- **Bennett Kleinberg** — Associate Professor [🌐](https://bkleinberg.net/)
 
 - **Riccardo Loconte** - Doctoral researcher: *Computational advances in verbal deception detection*
 
@@ -94,11 +94,11 @@ Using computational text analysis to study and predict psychological constructs 
 
 ## PhD alumni of the lab
 
-- Dr. Isabelle van der Vegt, _Understanding and predicting threats of violence using computational linguistics_ (supervision with Prof Paul Gill) - completed in 1/2021, positions: Scientific project manager at [WODC](https://english.wodc.nl/) $\rightarrow$ Assistant Professor in Computational Social Science at Utrecht University, NL.
-- Dr. Felix Soldner, _Detecting and mitigating online customer fraud_ (supervision with Prof Shane Johnson) - completed in 6/2023, positions: postdoc at Leibniz Institute GESIS, Cologne, Germany $\rightarrow$ Forensic Service consultant at PWC.
-- Dr. Maximilian Mozes, _Adversarial perturbations in natural language processing_ (supervision with Prof Lewis Griffin) - completed in 12/2023, position: Senior Research Scientist and team lead at Cohere AI, London.
-- Dr. Arianna Trozze, _New forms of financial crime_ (supervision with Dr. Toby Davies) - completed: 12/2023, position: Senior Cryptocurrency Intelligence Scientist at Elliptic, London.
-- Dr. Daniel Hammocks, _Information prioritisation for horizon scanning using data science techniques_ (with Prof Kate Bowers) - completed in 5/2025, positions: Senior Data Scientist at the Mayor's Office for Policing and Crime (MOPAC), London $\rightarrow$ Principal Data Scientist at MOPAC.
+- Dr. Isabelle van der Vegt, _Understanding and predicting threats of violence using computational linguistics_ (supervision with Prof Paul Gill) - completed in 1/2021, positions: Scientific project manager at [WODC](https://english.wodc.nl/) $\rightarrow$ Assistant Professor in Computational Social Science at Utrecht University, NL. [www](https://isabellevdv.net/)
+- Dr. Felix Soldner, _Detecting and mitigating online customer fraud_ (supervision with Prof Shane Johnson) - completed in 6/2023, positions: postdoc at Leibniz Institute GESIS, Cologne, Germany $\rightarrow$ Forensic Service consultant at PWC. [www](https://www.fsoldner.net/)
+- Dr. Maximilian Mozes, _Adversarial perturbations in natural language processing_ (supervision with Prof Lewis Griffin) - completed in 12/2023, position: Senior Research Scientist and team lead at [Cohere AI](https://cohere.com/), London. [www](https://mmozes.net/)
+- Dr. Arianna Trozze, _New forms of financial crime_ (supervision with Dr. Toby Davies) - completed: 12/2023, position: Senior Cryptocurrency Intelligence Scientist at [Elliptic](https://www.elliptic.co/), London. [www](https://ariannatrozze.github.io/)
+- Dr. Daniel Hammocks, _Information prioritisation for horizon scanning using data science techniques_ (with Prof Kate Bowers) - completed in 5/2025, positions: Senior Data Scientist at the Mayor's Office for Policing and Crime (MOPAC), London $\rightarrow$ Principal Data Scientist at [MOPAC](https://www.london.gov.uk/programmes-strategies/mayors-office-policing-and-crime-mopac).
 
 
 
