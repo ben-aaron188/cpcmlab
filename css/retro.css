@@ -215,3 +215,19 @@ footer {
 ::-webkit-scrollbar-thumb:hover {
   background: #1e40af;
 }
+
+/* --- Lab logo styling --- */
+.lab-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+
+.lab-logo img {
+  width: 260px; /* Adjust size as needed */
+  height: auto;
+  display: block;
+  filter: drop-shadow(0 2px 8px rgba(0,0,0,0.1));
+}

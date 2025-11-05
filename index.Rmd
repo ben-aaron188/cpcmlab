@@ -3,7 +3,11 @@ title: ""
 output: html_document
 ---
 
-# Computational Psychology and Computational Methods Lab
+<!-- <div class="lab-logo"> -->
+<!--   <img src="images/lablogo.svg" alt="CPCM Lab logo"> -->
+<!-- </div> -->
+
+# CPCM Lab
 ### *Understanding Human Behaviour through Experiments, Data, and Computational Methods*
 
 ---
@@ -41,6 +45,8 @@ Our team brings together researchers with backgrounds in **Psychology, Computer 
 - **Jennifer Chen** - Doctoral researcher: *Adolescent-Specific Assessment and Psychotherapy (ASAP): Innovating Idiographic Methods for Youth-Tailored Care*
 
 - **Tijn van Hoesel** - Doctoral researcher: *Investigating the impact of spin and other reporting practices in scientific research*
+
+- **Qian Chen** - Visiting doctoral researcher
 
 - **Jari Zegers** - Research assistant
 
