@@ -21,9 +21,9 @@ Our work is cross-disciplinary and seeks to answer two questions:
 1. **How can computational methods enhance our understanding of the human mind and behaviour?**
 2. **How can psychological research methods inform our understanding of computational model behaviour?**
 
-We collect data in psychological experiments and develop and apply techniques from **natural language processing**, **machine learning**, and **statistical modelling** to better understand human behaviour and psychological processes.
+We collect data in **psychological experiments** and develop and apply techniques from **natural language processing**, **machine learning**, and **statistical modelling** to better understand human behaviour and psychological processes.
 
-Our team brings together researchers with backgrounds in **Psychology, Computer Science, Artificial Intelligence, Linguistics, Mathematics, Law,** and **Cognitive Science**.  
+Our lab brings together researchers with backgrounds in **Psychology, Computer Science, Neuroscience, Artificial Intelligence, Linguistics, Mathematics, Law,** and **Cognitive Science**.  
 
 ---
 
@@ -32,7 +32,7 @@ Our team brings together researchers with backgrounds in **Psychology, Computer 
 
 - **Bennett Kleinberg** — Associate Professor [🌐](https://bkleinberg.net/)
 
-- **Riccardo Loconte** - Doctoral researcher: *Computational advances in verbal deception detection*
+- **Riccardo Loconte** - Postdoc: *Computational advances in verbal deception detection*
 
 - **Sanne Peereboom**  - Doctoral researcher: *Assessing the artificial mind through the marriage of natural language processing and psychometrics*
 
