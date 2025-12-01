@@ -25,38 +25,243 @@ We collect data in **psychological experiments** and develop and apply technique
 
 Our lab brings together researchers with backgrounds in **Psychology, Computer Science, Neuroscience, Artificial Intelligence, Linguistics, Mathematics, Law,** and **Cognitive Science**.  
 
+
+The CPCM Lab is based at the [Department of Methodology and Statistics](https://www.tilburguniversity.edu/about/schools/socialsciences/organization/departments/methodology-statistics) at Tilburg University.
+
+---
+
+## Lab updates
+
+- [12/2025] We're running a special session at [XAI 2026](https://xaiworldconference.com/2026/) on [psychometrics applied to AI research](https://xaiworldconference.com/2026/psychometric-applications-for-xai/). CfP open soon. Contact me or the lead organisers [Sanne Peereboom](https://sannepeereboom.com/) and [Nicola Rossberg](https://www.crt-ai.ie/team/nicola-c-rossberg/)
+- [11/2025] We've launched our 2-year master track [AI for Psychological Research](https://www.tilburguniversity.edu/education/masters-programs/artificial-intelligence-psychological-research). If you're interested in applying or have got other questions, please reach out.
+- [10/2025] Our special issue in Legal and Criminological Psychology on the [Impact of Artificial Intelligence and New Technologies on Legal and Criminological Psychology](https://bpspsychub.onlinelibrary.wiley.com/hub/journal/20448333/call-for-papers/si-2025-001204) is open for submissions. For any questions, reach out to me or Riccardo Loconte.
+
+
+
 ---
 
 
 ## People
 
-- **Bennett Kleinberg** — Associate Professor [🌐](https://bkleinberg.net/)
 
-- **Riccardo Loconte** - Postdoc: *Computational advances in verbal deception detection*
+::: {.people-grid}
 
-- **Sanne Peereboom**  - Doctoral researcher: *Assessing the artificial mind through the marriage of natural language processing and psychometrics*
+::: {.person-card}
+![Bennett Kleinberg](images/bennett_2.jpg)
 
-- **John Caffier** - Doctoral researcher: *Computational methods to measure and manipulate trust with hyperpersonalised messaging*
+### Bennett Kleinberg 
+**Associate Professor, Lab director**
 
-- **Weng Lam Ao** - Doctoral researcher: *Understanding decision-making in transport behaviour through social media data*
+::: {.person-links}
+🌐 [Website](https://bkleinberg.net)
+:::
 
-- **Rasoul Norouzi Nikjeh** - Doctoral researcher: *Text-mining methods for theory development in psychological and social science research*
+Computational methods in psychology, machine learning for behavioural data, and methodological foundations of computational social science.
+:::
 
-- **Jennifer Chen** - Doctoral researcher: *Adolescent-Specific Assessment and Psychotherapy (ASAP): Innovating Idiographic Methods for Youth-Tailored Care*
+::: {.person-card}
+![Riccardo Loconte](images/riccardo.jpg)
 
-- **Tijn van Hoesel** - Doctoral researcher: *Investigating the impact of spin and other reporting practices in scientific research*
+### Riccardo Loconte
+**Doctoral Researcher**
 
-- **Qian Chen** - Visiting doctoral researcher
+::: {.person-links}
+🌐 [Website](https://www.linkedin.com/in/riccardo-loconte-5a7a20181)
+:::
 
-- **Jari Zegers** - Research assistant
 
-- **Stefana Vida** - Research assistant
+*Opportunities and challenges of automated verbal deception detection*
 
-- **Jonas Festor** - Research assistant
+This project investigates how and to what extent computational approaches stemming from machine learning and natural language processing can advance verbal deception detection at large-scale.
 
-- **Ivo Snels** - Research assistant
+:::
 
-- **Lucca Pfründer** - Research assistant
+::: {.person-card}
+![Sanne Peereboom](images/sanne.jpg)
+
+### Sanne Peereboom
+**Doctoral Researcher**
+
+::: {.person-links}
+🌐 [Website](https://sannepeereboom.com/)
+:::
+
+*Assessing the artificial mind through the marriage of natural language processing and psychometrics*
+
+My project is focused on understanding generative language models through psychological measurement frameworks. My work focuses on if – and how – psychometric approaches can be used to validly assess the behaviour of these models
+
+
+:::
+
+
+
+::: {.person-card}
+![John Caffier](images/john.png)
+
+### John Caffier
+**Doctoral Researcher**
+
+::: {.person-links}
+🌐 [Website](https://www.john-caffier.com)
+:::
+
+*Computational methods to measure, understand, and influence prosocial behavior and trust*
+
+In our project, we apply and develop methods and tools to measure and model the dynamics of trust and prosocial behaviors - individually and at scale. Also, we explore how LLMs, apps, and other technologies, as well as humans, can actively influence these behaviors in potentially harmful or potentially constructive directions.
+
+:::
+
+
+::: {.person-card}
+![Rasoul Norouzi Nikjeh](images/rasoul.jpg)
+
+### Rasoul Norouzi Nikjeh
+**Doctoral Researcher**
+
+::: {.person-links}
+🌐 [Website](https://rasoulnorouzi.github.io/)
+:::
+
+
+*Text-mining methods for theory development in psychological and social science research*
+
+My PhD project develops text mining methods to automatically detect and parse causal claims in social science texts. It turns unstructured prose into structured who-causes-what representations and encodes them as Directed Acyclic Graphs (DAGs). This lets researchers identify recurring causal patterns, generate testable hypotheses, and conduct transparent evidence synthesis and theory refinement.
+
+:::
+
+
+::: {.person-card}
+![Jennifer Chen](images/jennifer.jpg)
+
+### Jennifer Chen
+**Doctoral Researcher**
+
+*Adolescent-Specific Assessment and Psychotherapy (ASAP): Innovating Idiographic Methods for Youth-Tailored Care*
+:::
+
+
+::: {.person-card}
+![Tijn van Hoesel](images/tijn.jpg)
+
+### Tijn van Hoesel
+**Doctoral Researcher**
+
+*Investigating the impact of spin and other reporting practices in scientific research*
+
+:::
+
+::: {.person-card}
+![Weng Lam Ao](images/weng.jpg)
+
+### Weng Lam Ao
+**Doctoral Researcher**
+
+*Understanding decision-making in transport behaviour through social media data*
+
+:::
+
+::: {.person-card}
+![Jari Zegers](images/jari.png)
+
+### Jari Zegers
+**Thesis student / research assistant**
+
+::: {.person-links}
+🌐 [Website](https://www.linkedin.com/in/jari-zegers-5458ab190)
+:::
+
+
+*Psychological theories of deception and deception detection*
+
+As part of my master’s thesis, this project aims to improve our understanding of deception and deception detection from a psychological perspective. 
+
+:::
+
+
+::: {.person-card}
+![Lucca Pfründer](images/lucca.jpg)
+
+### Lucca Pfründer
+**Thesis student**
+
+::: {.person-links}
+🌐 [Website](https://www.researchgate.net/profile/Lucca-Pfruender)
+:::
+
+*Misleading Deception Classifiers with Model-Based and Human Paraphrasing Attacks*
+
+This project investigates whether automated deception classifiers (machine learning) are vulnerable to intentional modification of credibility statements. We also investigate how humans and large language models think those systems understand credibility.
+
+:::
+
+::: {.person-card}
+![Qian Chen](images/qian.png)
+
+### Qian Chen
+**Visiting Doctoral Researcher (Central China Normal University)**
+
+::: {.person-links}
+🌐 [Website](https://scholar.google.com/citations?user=bJeKuokAAAAJ&hl=en)
+:::
+
+
+*Decoding distorted interpretations of ambiguity from text data*
+
+Everyday life is full of ambiguous social situations, and biased / inflexible interpretations of these situations are linked to depression and anxiety. Our work focuses on leveraging linguistic indicators of interpretation processes to improve understanding, measurement, and intervention methods that are more ecologically valid and translatable to real-world mental health.
+
+:::
+
+::: {.person-card}
+![Jonas Festor](images/jonas.jpg)
+
+### Jonas Festor
+**Research assistant**
+
+::: {.person-links}
+🌐 [Website](https://www.linkedin.com/in/jonas-festor/)
+:::
+
+
+*Simulated vs. genuine empathy*
+
+This project tries to disentangle human perceptions of LLM generated empathetic text from the ‘objective’ convincingness. This study builds on and tries to extend the investigation of [stochastic empathy](https://arxiv.org/abs/2410.01675).
+:::
+
+
+::: {.person-card}
+![Ivo Snels](images/ivo.jpg)
+
+### Ivo Snels
+**Research assistant**
+
+*Simulated vs. genuine empathy*
+
+This project tries to disentangle human perceptions of LLM generated empathetic text from the ‘objective’ convincingness. This study builds on and tries to extend the investigation of [stochastic empathy](https://arxiv.org/abs/2410.01675).
+
+:::
+
+<!-- ::: {.person-card} -->
+<!-- ![Stefana Vida](images/stefana.jpg) -->
+
+<!-- ### Stefana Vida -->
+<!-- **Research assistant** -->
+
+<!-- *TEXT* -->
+
+<!-- Description -->
+
+<!-- ::: -->
+
+
+
+
+
+:::
+
+
+
+
+
 
 
 ---
@@ -101,6 +306,14 @@ Using computational text analysis to study and predict psychological constructs 
 - Dr. Daniel Hammocks, _Information prioritisation for horizon scanning using data science techniques_ (with Prof Kate Bowers) - completed in 5/2025, positions: Senior Data Scientist at the Mayor's Office for Policing and Crime (MOPAC), London $\rightarrow$ Principal Data Scientist at [MOPAC](https://www.london.gov.uk/programmes-strategies/mayors-office-policing-and-crime-mopac).
 
 
+---
+
+## Joining the lab
+
+_How can I join the CPCM lab?_ 
+
+Lab members are typically postdocs, PhD students, thesis students or research interns/assistants. **Thesis projects** are advertised in the programmes we are involved in. There are various routes for **PhD projects** (e.g., a funded position via university employment, a joint PhD with another university, self-funding). All positions that are connected to employment (typically for 4 years) are publicly advertised. If you are interested in a **research internship**, please identify a topic you are interested in that aligns with the lab's focus and is relevant to at least one other lab member. Reach out to Bennett via email then. Research internships should last at least 6 months since projects require a solid embedding in psychological research and computational methods..
+
 
 ---
 
@@ -109,7 +322,8 @@ Using computational text analysis to study and predict psychological constructs 
 **Computational Psychology and Computational Methods Lab (CPCM Lab)**  
 Dr. Bennett Kleinberg, Department of Methodology and Statistics, Tilburg University, The Netherlands
 
-📧 [bennett.kleinberg@tilburguniversity.edu]
+
+📧 [mailto:&#98;&#101;&#110;&#110;&#101;&#116;&#116;&#46;&#107;&#108;&#101;&#105;&#110;&#98;&#101;&#114;&#103;&#64;&#116;&#105;&#108;&#98;&#117;&#114;&#103;&#117;&#110;&#105;&#118;&#101;&#114;&#115;&#105;&#116;&#121;&#46;&#101;&#100;&#117;]
 
 ---
 

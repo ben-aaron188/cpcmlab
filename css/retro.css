@@ -231,3 +231,90 @@ footer {
   display: block;
   filter: drop-shadow(0 2px 8px rgba(0,0,0,0.1));
 }
+
+/* --- People / lab members section --- */
+.people-grid {
+  display: grid;
+  gap: 1.8rem;
+  margin: 2rem 0 3rem;
+  align-items: stretch;               /* make rows have equal-height cards */
+}
+
+/* 1 column on very small screens */
+@media (max-width: 639px) {
+  .people-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* 2 columns on small/medium screens */
+@media (min-width: 640px) and (max-width: 1023px) {
+  .people-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* 3 columns on large screens (max) */
+@media (min-width: 1024px) {
+  .people-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.person-card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 1.3rem 1.4rem;
+  box-shadow: 0 2px 10px rgba(15, 23, 42, 0.06);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border-left: 4px solid #ff7a00; /* orange accent */
+  height: 100%;                   /* stretch to full row height */
+}
+
+
+.person-card img {
+  width: 200px;
+  aspect-ratio: 1 / 1;      /* keep them square */
+  height: auto;             /* let aspect-ratio handle height */
+  border-radius: 50%;
+  object-fit: cover;        /* crop nicely if not square */
+  margin-bottom: 0.9rem;
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.15);
+}
+
+.person-name {
+  font-size: 1.1rem;
+  margin: 0 0 0.2rem 0;
+  text-transform: none; /* override global uppercase if needed */
+}
+
+.person-role {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #475569;
+  margin: 0 0 0.5rem 0;
+}
+
+.person-project {
+  font-size: 0.92rem;
+  color: #1f2933;
+  margin: 0;
+}
+
+.person-links {
+  margin-top: 0.4rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+  color: #475569;
+}
+
+.person-links a {
+  border-bottom: none;              /* no dotted underline here */
+}
+
+.person-links a:hover,
+.person-links a:focus {
+  border-bottom: 1px solid #fb923c; /* subtle hover feedback */
+}
