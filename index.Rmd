@@ -63,7 +63,7 @@ Computational methods in psychology, machine learning for behavioural data, and 
 ![Riccardo Loconte](images/riccardo.jpg)
 
 ### Riccardo Loconte
-**Doctoral Researcher**
+**Postdoc**
 
 ::: {.person-links}
 🌐 [Website](https://www.linkedin.com/in/riccardo-loconte-5a7a20181)
@@ -195,7 +195,7 @@ This project investigates whether automated deception classifiers (machine learn
 :::
 
 ::: {.person-card}
-![Qian Chen](images/qian.png)
+![Qian Chen](images/qian.jpg)
 
 ### Qian Chen
 **Visiting Doctoral Researcher (Central China Normal University)**
