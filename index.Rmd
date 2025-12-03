@@ -146,7 +146,14 @@ My PhD project develops text mining methods to automatically detect and parse ca
 ### Tijn van Hoesel
 **Doctoral Researcher**
 
-*Investigating the impact of spin and other reporting practices in scientific research*
+::: {.person-links}
+🌐 [Website](https://www.tilburguniversity.edu/nl/medewerkers/t-g-l-vanhoesel)
+:::
+
+
+*Spin: Questionable Research Practices in Scientific Reporting*
+
+Investigating the concept of spin (primarily found in biomedicine) and relating it to the concept of questionable research practices (primarily found in psychology). Investigating the prevalence and impact of spin in psychological research.
 
 :::
 
