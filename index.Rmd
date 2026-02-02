@@ -23,7 +23,7 @@ Our work is cross-disciplinary and seeks to answer two questions:
 
 We collect data in **psychological experiments** and develop and apply techniques from **natural language processing**, **machine learning**, and **statistical modelling** to better understand human behaviour and psychological processes.
 
-Our lab brings together researchers with backgrounds in **Psychology, Computer Science, Neuroscience, Artificial Intelligence, Linguistics, Mathematics, Law,** and **Cognitive Science**.  
+Our lab brings together researchers with backgrounds in **Psychology, Computer Science, Neuroscience, Artificial Intelligence, Linguistics, Mathematics, Law,** and **Cognitive Science**.
 
 
 The CPCM Lab is based at the [Department of Methodology and Statistics](https://www.tilburguniversity.edu/about/schools/socialsciences/organization/departments/methodology-statistics) at Tilburg University.
@@ -189,15 +189,15 @@ As part of my master’s thesis, this project aims to improve our understanding 
 ![Lucca Pfründer](images/lucca.jpg)
 
 ### Lucca Pfründer
-**Thesis student**
+**Doctoral Researcher**
 
 ::: {.person-links}
 🌐 [Website](https://www.researchgate.net/profile/Lucca-Pfruender)
 :::
 
-*Misleading Deception Classifiers with Model-Based and Human Paraphrasing Attacks*
+*Human adversarial machine learning on text data for psychological inference*
 
-This project investigates whether automated deception classifiers (machine learning) are vulnerable to intentional modification of credibility statements. We also investigate how humans and large language models think those systems understand credibility.
+This project investigates how research designs from adversarial machine learning - when applied to NLP tasks, and when extended to human adversaries and human targets - can inform psychological theory for "wicked" problems such as deception.
 
 :::
 
